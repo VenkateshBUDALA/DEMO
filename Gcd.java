@@ -14,5 +14,6 @@ public class Gcd {
 	public static void main(String[] args) {
 		GcdPro ob=new GcdPro();
 		System.out.println(ob.result(36, 60));
+		System.out.println("hello world");
 	}
 }
